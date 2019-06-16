@@ -20,7 +20,7 @@
     color: #000;
     max-width: 980px;
     margin: 0 auto;
-    padding: 0 2rem;
+    padding: 2rem;
     display: grid;
     grid-template-columns: repeat(1, 1fr);
     grid-template-rows: auto auto;

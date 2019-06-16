@@ -62,6 +62,10 @@
     flex-wrap: wrap;
   }
 
+  .date label {
+    margin-bottom: 25px;
+  }
+
   .date input:nth-child(2) {
     width: 45%;
   }
@@ -86,6 +90,10 @@
 
   @media screen and (min-width: 768px) {
     label[for="cvv"] {
+      margin-bottom: 0.5rem;
+    }
+
+    .date label {
       margin-bottom: 0.5rem;
     }
   }
